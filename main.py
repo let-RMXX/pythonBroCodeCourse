@@ -3,8 +3,8 @@ print("It's really good!")
 
 # variables = a container for a value. Behaves as the value that it contains.
 
-first_name = "network"  # -> Its a STRING variable
-last_name = "rmxx"  # -> Its a STRING variable
+first_name = "network"  # -> It's a STRING variable
+last_name = "rmxx"  # -> It's a STRING variable
 full_name = first_name + " " + last_name
 
 print("Hello i am "+full_name)
@@ -20,7 +20,7 @@ print("Hello i am "+full_name)
 # Integers
 # No need of quotes of any kind "" ''
 
-age = 22
+age = 22  # -> It's a INTEGER variable
 # age = age + 1
 # age += 1
 
@@ -35,7 +35,7 @@ print("My age is: "+ str(age))
 
 # Float = floating point number
 
-height = 178.5
+height = 178.5  # -> It's a FLOAT variable
 print("My height is: " + str(height) + "cm")
 # print(type(height))
 
@@ -47,7 +47,7 @@ print("My height is: " + str(height) + "cm")
 
 # Boolean = True or false
 
-human = False
+human = False  # -> It's a BOOLEAN variable
 print("Are you a human: " + str(human))
 # print(type(human))
 
